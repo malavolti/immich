@@ -1244,6 +1244,7 @@
   "tag_assets": "Etiquetar activos",
   "tag_created": "Etiqueta creada: {tag}",
   "tag_feature_description": "Explore fotos y videos agrupados por temas de etiquetas lógicas",
+  "tag_not_found_question": "¿No encuentras una etiqueta? Crea una <link>aquí</link>",
   "tag_updated": "Etiqueta actualizada: {tag}",
   "tagged_assets": "Etiquetado(s) {count, plural, one {# activo} other {# activos}}",
   "tags": "Etiquetas",

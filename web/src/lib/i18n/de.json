@@ -1244,6 +1244,7 @@
   "tag_assets": "Dateien taggen",
   "tag_created": "Tag erstellt: {tag}",
   "tag_feature_description": "Durchsuchen von Fotos und Videos, gruppiert nach logischen Tag-Themen",
+  "tag_not_found_question": "Kein Tag zu finden? Erstelle einen <link>hier</link>",
   "tag_updated": "Tag aktualisiert: {tag}",
   "tagged_assets": "{count, plural, one {# Datei} other {# Dateien}} getagged",
   "tags": "Tags",
